@@ -1,4 +1,4 @@
-# Mayin-Tarlasi-Py
+# Mayin-Tarlasi
 Mayın tarlası oyununu aşağıdaki oyun kurallarını dikkate alarak Python programlama dilinde yazınız.
 Oyun Kuralları:
 -	Oyun alam (en az I OxIO) mxm boyutlarından oluşan bir kare matristir. Boyut isteğe göre değiştirilebilecektir.
